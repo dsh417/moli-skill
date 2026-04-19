@@ -1,0 +1,11 @@
+# Intermediate data from the distillation pipeline — don't push to github
+filtered/
+distilled/
+
+# Internal project doc (not part of the skill itself)
+CLAUDE.md
+
+# OS / editor cruft
+.DS_Store
+*.swp
+Thumbs.db
